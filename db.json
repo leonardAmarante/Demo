@@ -1,1 +1,26 @@
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "content": "This is my first post!"
+    },
+    {
+      "id": 2,
+      "title": "Another Post",
+      "content": "This is a second example post."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com"
+    }
+  ]
+}
